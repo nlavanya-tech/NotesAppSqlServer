@@ -1,0 +1,14 @@
+I:\IIHT\SQLService\NotesAppSqlServer\NotesAppSqlServer.BusinessLayer\bin\Debug\NotesAppSqlServer.BusinessLayer.exe.config
+I:\IIHT\SQLService\NotesAppSqlServer\NotesAppSqlServer.BusinessLayer\bin\Debug\NotesAppSqlServer.BusinessLayer.exe
+I:\IIHT\SQLService\NotesAppSqlServer\NotesAppSqlServer.BusinessLayer\bin\Debug\NotesAppSqlServer.BusinessLayer.pdb
+I:\IIHT\SQLService\NotesAppSqlServer\NotesAppSqlServer.BusinessLayer\bin\Debug\EntityFramework.dll
+I:\IIHT\SQLService\NotesAppSqlServer\NotesAppSqlServer.BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+I:\IIHT\SQLService\NotesAppSqlServer\NotesAppSqlServer.BusinessLayer\bin\Debug\NotesAppSqlServer.DataLayer.exe
+I:\IIHT\SQLService\NotesAppSqlServer\NotesAppSqlServer.BusinessLayer\bin\Debug\NotesAppSqlServer.DataLayer.pdb
+I:\IIHT\SQLService\NotesAppSqlServer\NotesAppSqlServer.BusinessLayer\bin\Debug\NotesAppSqlServer.DataLayer.exe.config
+I:\IIHT\SQLService\NotesAppSqlServer\NotesAppSqlServer.BusinessLayer\bin\Debug\EntityFramework.xml
+I:\IIHT\SQLService\NotesAppSqlServer\NotesAppSqlServer.BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+I:\IIHT\SQLService\NotesAppSqlServer\NotesAppSqlServer.BusinessLayer\obj\Debug\NotesAppSqlServer.BusinessLayer.csprojAssemblyReference.cache
+I:\IIHT\SQLService\NotesAppSqlServer\NotesAppSqlServer.BusinessLayer\obj\Debug\NotesAppSqlServer.BusinessLayer.csproj.CopyComplete
+I:\IIHT\SQLService\NotesAppSqlServer\NotesAppSqlServer.BusinessLayer\obj\Debug\NotesAppSqlServer.BusinessLayer.exe
+I:\IIHT\SQLService\NotesAppSqlServer\NotesAppSqlServer.BusinessLayer\obj\Debug\NotesAppSqlServer.BusinessLayer.pdb
