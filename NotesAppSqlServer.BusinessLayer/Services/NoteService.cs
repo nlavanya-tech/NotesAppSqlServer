@@ -25,9 +25,9 @@ namespace NotesAppSqlServer.BusinessLayer.Services
         //    this.DbContext = DbContext;
         //}
         //Get Notes and retrun list of notes
-        public async Task<IEnumerable<Note>> ReadAsync()
+        public Task<IEnumerable<Note>> ReadAsync()
         {
-            var notes = await _repositary.ReadAsync();
+            var notes = _repositary.ReadAsync();
             // var notes = this.DbContext.notes.ToList();
             return notes;
         }

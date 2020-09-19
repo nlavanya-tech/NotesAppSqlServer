@@ -24,18 +24,18 @@ namespace NotesAppSqlServer.Controllers
         // GET: api/Note
         //This Method Gets Request Call from User to Read Notes.
         [HttpGet]
-        public async Task<IEnumerable<Note>> GetAllNotes()
+        public Task<IEnumerable<Note>> GetAllNotes()
         {
-            var notes = await this.Service.ReadAsync();
+            var notes = this.Service.ReadAsync();
             return notes;
         }
 
         // POST: api/Notes
         //This Method Gets Request Call from User to Create Notes.
         [HttpPost]
-        public async void SubmitNotes([FromBody] Note notes)
+        public void SubmitNotes([FromBody] Note notes)
         {
-            await this.Service.CreateAsync(notes);
+             this.Service.CreateAsync(notes);
         }
 
         // PUT: api/Notes/5
